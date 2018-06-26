@@ -24,7 +24,7 @@ So you can use every single type and method in Tdlib.
 
 First of all you need to clone the Tdlib repo and build it:
 ```bash
-git clone git@github.com:tdlib/td.git
+git clone https://github.com/tdlib/td.git
 cd td
 mkdir build
 cd build
